@@ -1,0 +1,9 @@
+# Java-ScalaCode
+
+Project which contains both java and scala code. Inside java, create two classes as follows -
+    a. first one, 'calculator' class containing 4 methods, add, substract, multiply and divide. (Ensure to handle all types of cases).
+    b. second class, 'storage' class, which just contains an array used to store elements. This class will contains several methods as well i.e. addElement, removeElement, removeAll, checkIfContains.
+
+In Scala, implement the followings -
+    a. A class exposing all the methods of 'calculator' class.
+    b. A trait containing the methods defition only and create a new class extending the traits and these override methods will call the 'storage' class methos to perform operations.
